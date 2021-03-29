@@ -7,3 +7,7 @@
 ```
 npm install
 ```
+
+````
+#### Revisar el archivo ***.example.env*** para saber las variables de entorno necesarias y crear el archivo ***.env*** para el correcto funcionaniemto.
+````
